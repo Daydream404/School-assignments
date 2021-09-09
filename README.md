@@ -7,22 +7,21 @@
 
 
 
->This is all of my school assignments throughout my 4 years of Enginnering school. 
+This is all of my school assignments throughout my 4 years of Enginnering school. 
 All the assignments are done in C++
 
 - Everything is public and free to use 
 - Feel free to make it better/cleaner
 - ✨I hope that this helps someone in learning✨
 
-#
-#
-#
+
+
 ## 📈Usage
 
->All you need to do is just download the whole assignment folder and open in your desired IDE.
+All you need to do is just download the whole assignment folder and open in your desired IDE.
 
-#
-#
+
+
 
 ## 📝License
 
