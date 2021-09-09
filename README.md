@@ -16,6 +16,21 @@ All the assignments are done in C++
 
 </br>
 
+## Table of Contents
+
+- [2D Arrays](https://github.com/Daydream404/School-assignments/tree/main/Assignments/2D%20Arrays)
+- [Arrays]()
+- [For Loops]()
+- [Functions]()
+- [Pointers]()
+- [Recursion]()
+- [Strings]()
+- [Structs]()
+- [Vectors]()
+- [While Loops](https://github.com/Daydream404/School-assignments/tree/main/Assignments/While%20Loops)
+
+</br>
+
 ## 📈Usage
 
 All you need to do is just download the whole assignment folder and open in your desired IDE.
