@@ -14,12 +14,13 @@ All the assignments are done in C++
 - Feel free to make it better/cleaner
 - ✨I hope that this helps someone in learning✨
 
-
+</br>
 
 ## 📈Usage
 
 All you need to do is just download the whole assignment folder and open in your desired IDE.
 
+</br>
 
 
 
