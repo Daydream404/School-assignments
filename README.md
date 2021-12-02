@@ -11,7 +11,6 @@ This is all of my school assignments throughout my 4 years of Enginnering school
 All the assignments are done in C++
 
 - Everything is public and free to use 
-- Feel free to make it better/cleaner
 - ✨I hope that this helps someone in learning✨
 
 </br>
@@ -43,6 +42,5 @@ All you need to do is just download the whole assignment folder and open in your
 
 >[MIT License][mit]
 
-**Free Software, Hell Yeah!**
 
 [mit]:https://dillinger.io/
