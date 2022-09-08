@@ -1,4 +1,4 @@
-# 📑C++ Assignments
+# 📑C++ 2D Arrays Assignments
 
 </br>
 
@@ -19,7 +19,7 @@ Create an 2D array A[5][5] and generate numbers into the array from interval <-2
 - Calculate the average of a row number(that you input)
 - Calculate the average of a column number(that you input)
 - Find the highest number from the principal diagonal
-- [2D_Arrays_First_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/2D%20Arrays/2D_Arrays_assignment_1.cpp)
+- [2D_Arrays_First_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/2D%20Arrays/2D_Arrays_First_assignment.cpp)
 
 </br>
 
@@ -27,22 +27,22 @@ Create an 2D array A[5][5] and generate numbers into the array from interval <-2
 
 ## 2D Arrays Second Assignment
 
-Create an 2D array A[5][5] and generate numbers into the array from interval <-20,120>
-- Calculate the average of a row number(that you input)
-- Calculate the average of a column number(that you input)
-- Find the highest number from the principal diagonal
-- [2D_Arrays_Second_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/2D%20Arrays/2D_Arrays_assignment_2.cpp)
+Create an 2D array 
+- 
+- 
+- 
+- [2D_Arrays_Second_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/2D%20Arrays/2D_Arrays_Second_assignment.cpp)
 </br>
 
 <a name="third"/>
 
 ## 2D Arrays Third Assignment
 
-Create an 2D array A[5][5] and generate numbers into the array from interval <-20,120>
-- Calculate the average of a row number(that you input)
-- Calculate the average of a column number(that you input)
-- Find the highest number from the principal diagonal
-- [2D_Arrays_Third_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/2D%20Arrays/2D_Arrays_assignment_3.cpp)
+Create an 2D array
+- 
+- 
+- 
+- [2D_Arrays_Third_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/2D%20Arrays/2D_Arrays_Third_assignment.cpp)
 
 
 </br>

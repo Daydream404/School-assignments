@@ -7,7 +7,7 @@
 
 
 
-This are the C++ assignments that I did in 4 years of Enginnering school. 
+These are the C++ assignments that I did in 4 years of Enginnering school. 
 - All the assignments are done in C++.
 - Everything is public and free to use 
 - ✨I hope that this helps someone in learning C++✨
