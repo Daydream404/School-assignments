@@ -28,10 +28,10 @@ Create a structure data type named Student with his basic info(name,surname,heig
 
 ## Structure Second Assignment
 
-Create a structure data type named
-- 
-- 
-- 
+- Create a structure data type with 2D array member inside
+- Input or generate numbers into 2D array
+- Find arithmetic average of column with index 1
+- Find arithmetic average of principal and secondary diagonal
 - [Structure_Second_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/Structs/Structure_Second_assignment.cpp)
 </br>
 

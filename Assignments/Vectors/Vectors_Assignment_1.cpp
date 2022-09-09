@@ -1,3 +1,9 @@
+/******************************************************************************
+1. Create a vector that stores int numbers
+2. Input number into vector
+3. Find factor of input number
+*******************************************************************************/
+
 #include <iostream>
 #include <vector>
 
@@ -24,7 +30,7 @@ int main() {
     enterNumber(x);
     findFactor(x,vect);
     cout<<"Factors of "<<x<<" are: ";
-    for (int i = 0; i < size(vect); i++) {
+    for (int i = 0; i < vect.size(); i++) {
         cout << vect.at(i) << " ";
     }
 }
