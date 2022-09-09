@@ -1,6 +1,6 @@
 # 📑C++ Assignments
 
-<img align="center" src="CPPlogo.png" style="border-radius: 3%;">
+<img align="center" src="CPPlogo.png" style="border-radius: 3%;width:10000px;height:500px">
 
 
 ### Collection of all my C++ assignments
