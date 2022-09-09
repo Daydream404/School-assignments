@@ -1,7 +1,7 @@
 # 📑C++ Assignments
 
 <img align="center" src="CPPlogo.png" style="border-radius: 3%;">
-</br>
+
 
 ### Collection of all my C++ assignments
 
