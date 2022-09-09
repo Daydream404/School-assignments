@@ -1,6 +1,9 @@
 # 📑C++ Assignments
-### Collection of all my C++ assignments
 
+<img align="center" src="CPPlogo.png" style="border-radius: 3%;">
+</br>
+
+### Collection of all my C++ assignments
 
 ![MIT license](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge) [![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js?style=for-the-badge&color=blue)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=blue)
 
