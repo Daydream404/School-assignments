@@ -1,9 +1,10 @@
-// Create a structure data type named Student with his basic info(name,surname,height,weight)
-// a) Input his information into structure 
-// b) Calculate the average height
-// c) Calculate the average weight
-// d) Print the student's info
-
+/******************************************************************************
+1. Create a structure data type named Student with his basic info(name,surname,height,weight)
+2. Input his information into structure 
+3. Calculate the average height
+4. Calculate the average weight
+5.Print the student's info
+*******************************************************************************/
 #include <iostream>
 
 using namespace std;

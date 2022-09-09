@@ -1,18 +1,20 @@
-// Create a 2D Array named students[3][6] with three rows as Student's ID and six columns as their grades 
-// We have n number of students, every student has m marks/grades
-// a) Calculate arithmetic average of every student
-// b) Calculate their ratings
-// Ratings(PV-average <=1.5 worst grade can be 2)
-//        (PVD-average <=2.0 worst grade can be 3)
-//        (P- worst grade can be 4)
-//        (N- if student has at least one 5)
+/******************************************************************************
+1. Create a 2D Array named students[3][6] with three rows as Student's ID and six columns as their grades 
+2. We have n number of students and every student has m grades
+3. Calculate arithmetic average of every student
+4. Calculate their ratings
+5. Ratings(PV-average <=1.5 worst grade can be 2)
+          (PVD-average <=2.0 worst grade can be 3)
+          (P- worst grade can be 4)
+	      (N- if student has at least one 5)
 
-//MARK GRADING SYSTEM
-//1 = A+ 
-//2 = B
-//3 = C 
-//4 = D 
-//5 = F 
+MARK GRADING SYSTEM
+1 = A+ 
+2 = B
+3 = C 
+4 = D 
+5 = F 
+*******************************************************************************/
 
 #include <iostream>
 

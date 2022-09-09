@@ -1,48 +1,48 @@
-# 📑C++  Assignments
+# 📑C++ For Loops Assignments
 
 </br>
 
 ## Table of Contents
 
-- [ First Assignment](#first)
-- [ Second Assignment](#second)
-- [ Third Assignment](#third)
+- [For Loops First Assignment](#first)
+- [For Loops Second Assignment](#second)
+- [For Loops Third Assignment](#third)
 
 
 </br>
 
 <a name="first"/>
 
-## First Assignment
+## For Loops First Assignment
 
 Create a 
 - 
 - 
 - 
-- [_First_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments//_First_assignment.cpp)
+- [For_Loops_First_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/For%20Loops/For_Loops_First_assignment.cpp)
 
 </br>
 
 <a name="second"/>
 
-## Second Assignment
+## For Loops Second Assignment
 
 Create a 
 - 
 - 
 - 
-- [_Second_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments//_Second_assignment.cpp)
+- [For_Loops_Second_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/For%20Loops/For_Loops_Second_assignment.cpp)
 </br>
 
 <a name="third"/>
 
-## Third Assignment
+## For Loops Third Assignment
 
 Create a 
 - 
 - 
 - 
-- [_Third_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments//_Third_assignment.cpp)
+- [For_Loops_Third_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/For%20Loops/For_Loops_Third_assignment.cpp)
 
 
 </br>

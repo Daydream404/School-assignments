@@ -1,48 +1,48 @@
-# 📑C++  Assignments
+# 📑C++ Recursion Assignments
 
 </br>
 
 ## Table of Contents
 
-- [ First Assignment](#first)
-- [ Second Assignment](#second)
-- [ Third Assignment](#third)
+- [Recursion First Assignment](#first)
+- [Recursion Second Assignment](#second)
+- [Recursion Third Assignment](#third)
 
 
 </br>
 
 <a name="first"/>
 
-## First Assignment
+## Recursion First Assignment
 
 Create a 
 - 
 - 
 - 
-- [_First_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments//_First_assignment.cpp)
+- [Recursion_First_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/Recursion/Recursion_First_assignment.cpp)
 
 </br>
 
 <a name="second"/>
 
-## Second Assignment
+## Recursion Second Assignment
 
 Create a 
 - 
 - 
 - 
-- [_Second_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments//_Second_assignment.cpp)
+- [Recursion_Second_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/Recursion/Recursion_Second_assignment.cpp)
 </br>
 
 <a name="third"/>
 
-## Third Assignment
+## Recursion Third Assignment
 
 Create a 
 - 
 - 
 - 
-- [_Third_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments//_Third_assignment.cpp)
+- [Recursion_Third_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/Recursion/Recursion_Third_assignment.cpp)
 
 
 </br>

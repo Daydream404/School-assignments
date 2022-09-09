@@ -1,8 +1,9 @@
-// Create an 2D array A[5][5] and generate numbers into the array from interval <-20,120>
-// a) Calculate the average of a row number(that you input)
-// b) Calculate the average of a column number(that you input)
-// c) Find the highest number from the principal diagonal
-
+/******************************************************************************
+1. Create an 2D array A[5][5] and generate numbers into the array from interval <-20,120>
+2. Calculate the average of a row number(that you input)
+3. Calculate the average of a column number(that you input)
+4. Find the highest number from the principal diagonal
+*******************************************************************************/
 
 #include <iostream>
 #include <vector>
@@ -10,6 +11,7 @@
 
 using namespace std;
 
+// Defining global variables
 int A[5][5];
 vector <int> vect;
 

@@ -1,48 +1,48 @@
-# 📑C++  Assignments
+# 📑C++ Vectors Assignments
 
 </br>
 
 ## Table of Contents
 
-- [ First Assignment](#first)
-- [ Second Assignment](#second)
-- [ Third Assignment](#third)
+- [Vectors First Assignment](#first)
+- [Vectors Second Assignment](#second)
+- [Vectors Third Assignment](#third)
 
 
 </br>
 
 <a name="first"/>
 
-## First Assignment
+## Vectors First Assignment
 
 Create a 
 - 
 - 
 - 
-- [_First_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments//_First_assignment.cpp)
+- [Vectors_First_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/Vectors/Vectors_First_assignment.cpp)
 
 </br>
 
 <a name="second"/>
 
-## Second Assignment
+## Vectors Second Assignment
 
 Create a 
 - 
 - 
 - 
-- [_Second_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments//_Second_assignment.cpp)
+- [Vectors_Second_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/Vectors/Vectors_Second_assignment.cpp)
 </br>
 
 <a name="third"/>
 
-## Third Assignment
+## Vectors Third Assignment
 
 Create a 
 - 
 - 
 - 
-- [_Third_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments//_Third_assignment.cpp)
+- [Vectors_Third_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/Vectors/Vectors_Third_assignment.cpp)
 
 
 </br>

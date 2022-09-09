@@ -1,48 +1,48 @@
-# 📑C++  Assignments
+# 📑C++ Functions Assignments
 
 </br>
 
 ## Table of Contents
 
-- [ First Assignment](#first)
-- [ Second Assignment](#second)
-- [ Third Assignment](#third)
+- [Functions First Assignment](#first)
+- [Functions Second Assignment](#second)
+- [Functions Third Assignment](#third)
 
 
 </br>
 
 <a name="first"/>
 
-## First Assignment
+## Functions First Assignment
 
-Create a 
+Create a function
 - 
 - 
 - 
-- [_First_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments//_First_assignment.cpp)
+- [Functions_First_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/Functions/Functions_First_assignment.cpp)
 
 </br>
 
 <a name="second"/>
 
-## Second Assignment
+## Functions Second Assignment
 
 Create a 
 - 
 - 
 - 
-- [_Second_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments//_Second_assignment.cpp)
+- [Functions_Second_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/Functions/Functions_Second_assignment.cpp)
 </br>
 
 <a name="third"/>
 
-## Third Assignment
+## Functions Third Assignment
 
 Create a 
 - 
 - 
 - 
-- [_Third_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments//_Third_assignment.cpp)
+- [Functions_Third_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/Functions/Functions_Third_assignment.cpp)
 
 
 </br>

@@ -1,48 +1,48 @@
-# 📑C++  Assignments
+# 📑C++ Pointers Assignments
 
 </br>
 
 ## Table of Contents
 
-- [ First Assignment](#first)
-- [ Second Assignment](#second)
-- [ Third Assignment](#third)
+- [Pointers First Assignment](#first)
+- [Pointers Second Assignment](#second)
+- [Pointers Third Assignment](#third)
 
 
 </br>
 
 <a name="first"/>
 
-## First Assignment
+## Pointers First Assignment
 
 Create a 
 - 
 - 
 - 
-- [_First_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments//_First_assignment.cpp)
+- [Pointers_First_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/Pointers/Pointers_First_assignment.cpp)
 
 </br>
 
 <a name="second"/>
 
-## Second Assignment
+## Pointers Second Assignment
 
 Create a 
 - 
 - 
 - 
-- [_Second_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments//_Second_assignment.cpp)
+- [Pointers_Second_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/Pointers/Pointers_Second_assignment.cpp)
 </br>
 
 <a name="third"/>
 
-## Third Assignment
+## Pointers Third Assignment
 
 Create a 
 - 
 - 
 - 
-- [_Third_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments//_Third_assignment.cpp)
+- [Pointers_Third_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/Pointers/Pointers_Third_assignment.cpp)
 
 
 </br>
