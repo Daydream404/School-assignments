@@ -1,3 +1,8 @@
+/******************************************************************************
+Greatest Common Divisor
+Find greatest common divisor of two inputed numbers
+*******************************************************************************/
+
 #include <iostream>
 
 using namespace std;
