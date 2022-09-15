@@ -1,3 +1,10 @@
+/******************************************************************************
+1. Create an array A and fill it with values
+2. Create an empty array B
+3. Fill an array B with values of an array A 
+4. Do all of this with pointers
+*******************************************************************************/
+
 #include <iostream>
 
 using namespace std;
@@ -14,17 +21,17 @@ int main() {
     x++;
     y++;
   }
-  cout<<"A = { ";
+  cout<<"A[";
   for(auto a : A){
     cout<< a << " ";
   }
-  cout<<"}"<<endl;
+  cout<<"]"<<endl;
 
-  cout<<"B = { ";
+  cout<<"B[";
   for(auto b : B){
     cout << b << " ";
   }
-  cout<<"}"<<endl;
+  cout<<"]"<<endl;
 
   return 0;
 }
