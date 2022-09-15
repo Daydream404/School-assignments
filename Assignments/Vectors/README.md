@@ -18,7 +18,6 @@
 - Create a vector that stores int numbers
 - Input number into vector
 - Find factor of input number
-
 - [Vectors_First_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/Vectors/Vectors_First_assignment.cpp)
 
 </br>

@@ -5,7 +5,7 @@
 4. Create functions for subtraction of array A and array B
 5. Create functions for multiplying of array A and array B
 6. Create functions for division of array A and array B
-7. Print all the arrays
+7. Print all the array operations
 *******************************************************************************/
 
 #include <iostream>

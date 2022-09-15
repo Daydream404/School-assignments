@@ -1,6 +1,6 @@
 /******************************************************************************
-Greatest Common Divisor
-Find greatest common divisor of two inputed numbers
+1. Create a program that finds the Greatest Common Divisor
+2. Find greatest common divisor of two inputed numbers
 *******************************************************************************/
 
 #include <iostream>

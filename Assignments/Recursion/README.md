@@ -15,10 +15,8 @@
 
 ## Recursion First Assignment
 
-Create a 
-- 
-- 
-- 
+Create a program that finds the Greatest Common Divisor
+- Find greatest common divisor of two inputed numbers
 - [Recursion_First_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/Recursion/Recursion_First_assignment.cpp)
 
 </br>

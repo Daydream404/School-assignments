@@ -15,10 +15,10 @@
 
 ## Pointers First Assignment
 
-Create a 
-- 
-- 
-- 
+Create an array A and fill it with values
+- Create an empty array B
+- Fill an array B with values of an array A 
+- Do all of this with pointers
 - [Pointers_First_Assignment.cpp](https://github.com/daniel-slosar/cpp-assignments/blob/main/Assignments/Pointers/Pointers_First_assignment.cpp)
 
 </br>

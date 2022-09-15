@@ -1,6 +1,8 @@
 /******************************************************************************
-Palindrome check
-Check if input string is or is not palindrome
+1. Create a program that does Palindrome check
+2. Check if inputed string is or is not palindrome
+3. Example: Hello is not a palindrome
+			Kayak is a palindrome
 *******************************************************************************/
 
 #include <iostream>
